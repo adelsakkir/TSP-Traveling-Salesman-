@@ -4,7 +4,7 @@ The following approaches were used to solve several instances of the travelling 
 1. MILP - Can solve instances upto 100 cities in reasonable times
 2. 2 OPT
 3. 2 OPT - Randomised (An interesting approach by construction of convenient PDF to replace arcs)
-4. 3 OPT - Randomised
+4. 3 OPT - Randomised (TSP 3-OPT.ipynb)
 
 This project aims to solve the following instances of the travelling salesman problem 
 
