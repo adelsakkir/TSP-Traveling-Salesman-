@@ -1,4 +1,4 @@
-# TSP-Traveling-Salesmen
+# TSP-Traveling-Salesman
 The following approaches were used to solve several instances of the travelling salesman problem. 
 
 1. MILP - Can solve instances upto 100 cities in reasonable times (TSP.ipynb)
